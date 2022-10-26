@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461513895660",
+    "project_id": "dexter-e3b62",
+    "storage_bucket": "dexter-e3b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461513895660:android:1f63228d1972b9d7193fc9",
+        "android_client_info": {
+          "package_name": "mo.dexter.task.dexter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461513895660-o4uu9e5m3rg45otkib1po1p6mlgj9cal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDob4ccIlfuzjkT7r8TGZReQVeJrohKRQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461513895660-o4uu9e5m3rg45otkib1po1p6mlgj9cal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
