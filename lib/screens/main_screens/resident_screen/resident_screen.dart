@@ -19,6 +19,12 @@ class ResidentScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     int tasks = 0;
     RxList<TaskModel> residentTasksList = <TaskModel>[].obs;
+    for (var element in homeCtrl.tasksList) {
+      if (resident.residentId == element.residentModel.residentId) {
+        residentTasksList.add(element);
+        tasks++;
+      }
+    }
 
     return Scaffold(
       body: SafeArea(
